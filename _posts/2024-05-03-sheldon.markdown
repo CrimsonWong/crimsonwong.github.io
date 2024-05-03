@@ -1,0 +1,13 @@
+---
+layout:       post
+title:        "Lombok @Builder注解踩坑记录"
+author:       "Sheldon"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - Java
+    - Lombok
+---
+
+分享一篇自己的过去的文章，在开发中遇到的：[《Lombok @Builder注解踩坑记录》](https://blog.csdn.net/CrimsonWong/article/details/131135130) 。
